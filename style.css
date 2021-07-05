@@ -1,0 +1,72 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+span{
+    color: red;
+}
+h1{
+    font-size: 50px;
+}
+.sec{
+    display: flex;
+    margin-bottom: 150px;
+   text-align: justify;
+}
+.tex{
+    margin-bottom: 150px;
+}
+
+.layer1{
+    width: 50%;
+    padding-left: 7%;
+   }
+.layer1 img{
+    width: 80%;
+    padding-left: 50px;
+}
+.layer2{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 7%;
+}
+.layer2 img{
+    width: 60%;
+    padding-left: 25%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(red, tomato);
+    font-weight: 700px;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 5px;
+    margin-top: 50px;}
+.degine{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;}
+.t-pos{
+    text-align: center;
+    padding-left: 25%;
+    padding-right: 25%;
+    }
+.food{
+    display: flex;
+    margin-bottom: 150px;
+    
+}
+.food-im{
+    width: 30%;
+    padding-left: 2%;
+    padding-right: 2%;
+    box-shadow: 10px 10px 30px black;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-top: 2%;
+    border-radius: 5%;
+
+}
+.food img{
+    width: 100%;
+    border-radius: 5%;
+   
+}
