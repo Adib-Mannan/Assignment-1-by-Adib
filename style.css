@@ -35,16 +35,6 @@ h2{
     width: 60%;
     padding-left: 25%;
 }
-.layer3{
-    width: 50%;
-    padding-left: 10%;
-   
-}
-.layer3 img{
-    width: 100%;
-   
-    
-}
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(red ,tomato);
@@ -109,3 +99,8 @@ footer{
        padding-right: 5%;
    }
    .now{color: tomato;}
+   .layer3{
+    width: 50%;
+    padding-left: 10%;}
+.layer3 img{
+    width: 100%;}
