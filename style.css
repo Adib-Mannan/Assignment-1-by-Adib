@@ -93,14 +93,18 @@ footer{
      text-align: center;
      width: 50%; 
    }
-   .order{
+.order{
        margin-bottom: 100px;
        padding-left: 5%;
        padding-right: 5%;
    }
-   .now{color: tomato;}
-   .layer3{
+.now{color: tomato;}
+.layer3{
     width: 50%;
     padding-left: 10%;}
 .layer3 img{
     width: 100%;}
+.sec4{
+    display: flex;
+    margin-bottom: 100px;
+}
